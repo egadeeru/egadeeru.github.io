@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egadeeru.github.io/WaN/sitemap_index.txt
+Sitemap: https://egadeeru.github.io/eYr/sitemap_index.txt
+Sitemap: https://egadeeru.github.io/vXa/sitemap_index.txt
+Sitemap: https://egadeeru.github.io/wqC/sitemap_index.txt
